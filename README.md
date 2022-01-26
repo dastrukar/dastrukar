@@ -9,3 +9,4 @@
 ## Other stuff
 - [dplayr](https://github.com/dastrukar/dplayr)
 - [FDHUD](https://github.com/dastrukar/fdhud)
+- [hddons-list](https://dastrukar.gitlab.io/hddons-list)
