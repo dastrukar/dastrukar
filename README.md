@@ -6,7 +6,10 @@
 - [Stance Indicator](https://github.com/dastrukar/hdest-stance_indicator)
 - [What's In My Pack?(WIMP)](https://github.com/dastrukar/hdest-wimp)
 
+## GZDoom mods
+- [FDHUD](https://github.com/dastrukar/fdhud)
+- [ggwp](https://github.com/dastrukar/gzdoom-ggwp)
+
 ## Other stuff
 - [dplayr](https://github.com/dastrukar/dplayr)
-- [FDHUD](https://github.com/dastrukar/fdhud)
 - [hddons-list](https://dastrukar.gitlab.io/hddons-list)
